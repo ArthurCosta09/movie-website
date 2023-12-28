@@ -1,0 +1,24 @@
+.not-found-box {
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+div[class="not-found-box"] h1 span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+div[class="not-found-box"] h1 {
+    font-size: 60px;
+    font-weight: 500;
+    align-self: center;
+}
+
+div[class="not-found-box"] h2 {
+    font-size: 80px;
+    font-weight: 500;
+    align-self: center;
+}
