@@ -18,7 +18,7 @@ A linguagem utilizada foi o Typescript por conter as seguintes vantagens:
 * Suporte a biblioteca JS
 * Criação de sistemas mais complexos, sem muito trabalho
 
-O site possui uma aba de pesquisa de filmes e um botão de pesquisa. Sem contar também em uma tela de loadind que construi utilizando a biblioteca *[react-spinners](https://www.npmjs.com/package/react-spinners)*. Há também, em cada um dos cards, um botão de assistir e um de download, sendo estes para fins demonstrativos, ou seja, não possuem nenhuma ação. 
+O site possui uma aba de pesquisa de filmes e um botão de pesquisa. Sem contar também em uma tela de loading que construi utilizando a biblioteca *[react-spinners](https://www.npmjs.com/package/react-spinners)*. Há também, em cada um dos cards, um botão de assistir e um de download, sendo estes para fins demonstrativos, ou seja, não possuem nenhuma ação. 
 
 ## 🛠️ *Desenvolvimento*
 
