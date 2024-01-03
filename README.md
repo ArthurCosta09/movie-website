@@ -1,4 +1,4 @@
-**<h1 style="text-align: center">Site de filmes📽️ construído em React⚛️</h1>**
+**<h1 style="text-align: center">Site de filmes📽️ construído no React⚛️</h1>**
 
 ## 🗒️ *Sobre*
 
