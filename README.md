@@ -45,6 +45,37 @@ Eis as principais ferramentas utilizadas:
 * Git
 * Github
 
+## ⬇️ *Instalação*
+
+Primeiramente, é necessário instalar as dependências necessárias para a correta execução do projeto. Para instalar as dependências, basta executar o seguinte comando no terminal:
+
+```
+  npm install
+```
+
+Você pode executar no terminal do Vs code na pasta do projeto. Caso esteja utilizando o cmd, lembre-se de acessar a pasta do projeto antes de instalar os modules.
+
+```
+  cd movie-website
+  npm install
+```
+
+Ao instalar todas as dependências, basta rodar o projeto.
+
+```
+  npm run dev
+```
+
+Acesse o link do MoviesParadise🎥 em sua máquina local.
+
+```
+   VITE v5.0.10  ready in 388 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+```
+
 ## 📞 *Contatos*
 
 <br />
